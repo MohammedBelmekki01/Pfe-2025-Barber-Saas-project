@@ -1,4 +1,4 @@
-# Barbershop Management System
+# Barbershop Management System (Saas project)
 
 Projet PFE développé par Mohammed Belmekki et Mohsine Lahfari , enjoy : 
 
