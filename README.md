@@ -381,14 +381,7 @@ For any questions or inquiries about this project, please reach out through:
 et voila le demo vedio :
 
 
-
-
-
-Uploading barber shop projet pfe.mp4
-
-
-
-
+https://github.com/user-attachments/assets/9ea618e9-37e1-4a9c-9c2f-7a0b6b2ec9fb
 
 
 **Note:** This project is developed as a Final Year Project (PFE) for academic purposes.
